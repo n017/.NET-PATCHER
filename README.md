@@ -42,11 +42,6 @@ It doesn't support WPF .exe !
 * The binary doesn't require installation
 
 
-# WebSite
-
-* [http://3dotdevcoder.blogspot.fr/](http://3dotdevcoder.blogspot.fr/)
-
-
 # Credits
 
 * jbevains : for [MonoCecil](https://github.com/jbevain/cecil) library
